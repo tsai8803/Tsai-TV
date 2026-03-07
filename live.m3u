@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV-1 综合 (4K/高清)
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 tvg-name="CCTV6" group-title="央视频道",CCTV-6 电影 (高清)
-http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道",湖南卫视 (高清)
-http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" group-title="港台频道",凤凰中文 (CMVideo源)
-http://hw-m-l.itv.cmvideo.cn/live/gslbId/11000000000000010000000003738012/index.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" group-title="港台频道",凤凰资讯 (CMVideo源)
-http://hw-m-l.itv.cmvideo.cn/live/gslbId/11000000000000010000000003739012/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道",东方卫视 (高清)
-http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV-1 综合
+http://39.134.115.163:8080/PLTV/88888888/224/3221225718/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视频道",CCTV-6 电影
+http://39.134.115.163:8080/PLTV/88888888/224/3221225723/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
+http://39.134.115.163:8080/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
+http://39.134.115.163:8080/PLTV/88888888/224/3221225771/index.m3u8
 #EXTINF:-1 tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.cn/tv/浙江新闻.png" group-title="浙江频道",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://live.fanmingming.cn/tv/浙江国际.png" group-title="浙江频道",浙江国际
