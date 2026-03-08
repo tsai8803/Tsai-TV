@@ -19,38 +19,32 @@ https://stream1.freetv.fun/1c202fca80785f8b4824cdf42054cbbdb391c0debedaa601e7979
 https://stream1.freetv.fun/395aa9bcecda230deb8046ff6d1b97f4158ab2d965e8610e865dc27560447d33.m3u8
 
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV1
-http://go.bkpcp.top/mg/cctv1
+http://61.184.46.85:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV2
-http://go.bkpcp.top/mg/cctv2
+http://61.184.46.85:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV3" group-title="央视频道",CCTV3
-http://go.bkpcp.top/mg/cctv3
+http://61.184.46.85:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV4" group-title="央视频道",CCTV4
-http://go.bkpcp.top/mg/cctv4
+http://61.184.46.85:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV5" group-title="央视频道",CCTV5
-http://go.bkpcp.top/mg/cctv5
+http://61.184.46.85:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道",CCTV5+
-http://go.bkpcp.top/mg/cctv5p
+http://61.184.46.85:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV6" group-title="央视频道",CCTV6
-http://go.bkpcp.top/mg/cctv6
+http://61.184.46.85:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV7" group-title="央视频道",CCTV7
-http://go.bkpcp.top/mg/cctv7
+http://61.184.46.85:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV8" group-title="央视频道",CCTV8
-http://go.bkpcp.top/mg/cctv8
+http://61.184.46.85:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV9" group-title="央视频道",CCTV9
-http://go.bkpcp.top/mg/cctv9
+http://61.184.46.85:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV10" group-title="央视频道",CCTV10
-http://go.bkpcp.top/mg/cctv10
+http://61.184.46.85:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV11" group-title="央视频道",CCTV11
-http://go.bkpcp.top/mg/cctv11
+http://61.184.46.85:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV12" group-title="央视频道",CCTV12
-http://go.bkpcp.top/mg/cctv12
+http://61.184.46.85:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV13" group-title="央视频道",CCTV13
-http://go.bkpcp.top/mg/cctv13
+http://61.184.46.85:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV14" group-title="央视频道",CCTV14
-http://go.bkpcp.top/mg/cctv14
-#EXTINF:-1 tvg-name="CCTV15" group-title="央视频道",CCTV15
-http://go.bkpcp.top/mg/cctv15
-#EXTINF:-1 tvg-name="CCTV16" group-title="央视频道",CCTV16
-http://go.bkpcp.top/mg/cctv16
-#EXTINF:-1 tvg-name="CCTV17" group-title="央视频道",CCTV17
-http://go.bkpcp.top/mg/cctv17
+http://61.184.46.85:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
