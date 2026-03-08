@@ -17,35 +17,40 @@ https://stream1.freetv.fun/fc542dddf6d96335d494c255d5df19fc0f2c61c46779dd9fe85e5
 https://stream1.freetv.fun/1c202fca80785f8b4824cdf42054cbbdb391c0debedaa601e797953597ae2eda.ctv
 #EXTINF:-1 tvg-name="tvbs亚洲" group-title="香港频道",tvbs亚洲
 https://stream1.freetv.fun/395aa9bcecda230deb8046ff6d1b97f4158ab2d965e8610e865dc27560447d33.m3u8
+
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV1
-http://183.250.156.180:9999/newlive/live/hls/1/live.m3u8
+http://go.bkpcp.top/mg/cctv1
 #EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV2
-http://183.250.156.180:9999/newlive/live/hls/2/live.m3u8
+http://go.bkpcp.top/mg/cctv2
 #EXTINF:-1 tvg-name="CCTV3" group-title="央视频道",CCTV3
-http://183.250.156.180:9999/newlive/live/hls/3/live.m3u8
+http://go.bkpcp.top/mg/cctv3
 #EXTINF:-1 tvg-name="CCTV4" group-title="央视频道",CCTV4
-http://183.250.156.180:9999/newlive/live/hls/4/live.m3u8
+http://go.bkpcp.top/mg/cctv4
 #EXTINF:-1 tvg-name="CCTV5" group-title="央视频道",CCTV5
-http://183.250.156.180:9999/newlive/live/hls/5/live.m3u8
+http://go.bkpcp.top/mg/cctv5
 #EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道",CCTV5+
-http://183.250.156.180:9999/newlive/live/hls/6/live.m3u8
+http://go.bkpcp.top/mg/cctv5p
 #EXTINF:-1 tvg-name="CCTV6" group-title="央视频道",CCTV6
-http://183.250.156.180:9999/newlive/live/hls/7/live.m3u8
+http://go.bkpcp.top/mg/cctv6
 #EXTINF:-1 tvg-name="CCTV7" group-title="央视频道",CCTV7
-http://183.250.156.180:9999/newlive/live/hls/8/live.m3u8
+http://go.bkpcp.top/mg/cctv7
 #EXTINF:-1 tvg-name="CCTV8" group-title="央视频道",CCTV8
-http://183.250.156.180:9999/newlive/live/hls/9/live.m3u8
+http://go.bkpcp.top/mg/cctv8
 #EXTINF:-1 tvg-name="CCTV9" group-title="央视频道",CCTV9
-http://183.250.156.180:9999/newlive/live/hls/10/live.m3u8
+http://go.bkpcp.top/mg/cctv9
 #EXTINF:-1 tvg-name="CCTV10" group-title="央视频道",CCTV10
-http://183.250.156.180:9999/newlive/live/hls/11/live.m3u8
+http://go.bkpcp.top/mg/cctv10
 #EXTINF:-1 tvg-name="CCTV11" group-title="央视频道",CCTV11
-http://183.250.156.180:9999/newlive/live/hls/12/live.m3u8
+http://go.bkpcp.top/mg/cctv11
 #EXTINF:-1 tvg-name="CCTV12" group-title="央视频道",CCTV12
-http://183.250.156.180:9999/newlive/live/hls/13/live.m3u8
+http://go.bkpcp.top/mg/cctv12
 #EXTINF:-1 tvg-name="CCTV13" group-title="央视频道",CCTV13
-http://183.250.156.180:9999/newlive/live/hls/14/live.m3u8
+http://go.bkpcp.top/mg/cctv13
 #EXTINF:-1 tvg-name="CCTV14" group-title="央视频道",CCTV14
-http://183.250.156.180:9999/newlive/live/hls/15/live.m3u8
+http://go.bkpcp.top/mg/cctv14
+#EXTINF:-1 tvg-name="CCTV15" group-title="央视频道",CCTV15
+http://go.bkpcp.top/mg/cctv15
 #EXTINF:-1 tvg-name="CCTV16" group-title="央视频道",CCTV16
-http://183.250.156.180:9999/newlive/live/hls/17/live.m3u8
+http://go.bkpcp.top/mg/cctv16
+#EXTINF:-1 tvg-name="CCTV17" group-title="央视频道",CCTV17
+http://go.bkpcp.top/mg/cctv17
